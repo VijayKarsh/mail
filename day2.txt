@@ -1,0 +1,14 @@
+package com.techment.oops;
+
+public class car {
+	
+	//variable declaration
+	int kiometerDriven;
+	int modelNumber;
+	
+
+	//method
+	public string displayCarStatus()
+	{
+		if(KilometerDriven<=5000)
+			return "
